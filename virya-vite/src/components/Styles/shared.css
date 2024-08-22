@@ -1,0 +1,31 @@
+:root {
+    font-family: Allerta, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    background-color: rgb(245, 244, 243);
+    max-width: 100%;
+}
+
+h1 {
+    font-size: 3.2em;
+    line-height: 1.1;
+}
+
+a {
+    color: rgb(99, 205, 170);
+    text-decoration: none;
+    font-family: "Allerta", sans-serif;
+
+}
+
+ul,li,menu {
+    list-style: none;
+}

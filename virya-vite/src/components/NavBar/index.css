@@ -1,0 +1,27 @@
+.header {
+    text-align: space-around;
+    max-width: 100%;
+    padding: 20px;
+    margin: 10px;
+}
+
+.navbar {
+    background-color: (#69A898);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 5px;
+    list-style: none;
+    width: 100%;
+}
+
+.navbar-menu {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+ul,li,menu,.navbar__menu{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
